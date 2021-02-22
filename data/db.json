@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "second blog",
+      "body": "second blog",
+      "author": "sreenu",
+      "id": 2
+    },
+    {
+      "title": "third blog",
+      "body": "third blog data",
+      "author": "doosari",
+      "id": 3
+    }
+  ]
+}
