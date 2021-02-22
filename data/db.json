@@ -1,16 +1,16 @@
 {
   "blogs": [
     {
-      "title": "second blog",
-      "body": "second blog",
+      "title": "Blog 1",
+      "body": "My first blog",
       "author": "sreenu",
-      "id": 2
+      "id": 1
     },
     {
-      "title": "third blog",
-      "body": "third blog data",
+      "title": "Blog 2",
+      "body": "My second blog\n",
       "author": "doosari",
-      "id": 3
+      "id": 2
     }
   ]
 }
